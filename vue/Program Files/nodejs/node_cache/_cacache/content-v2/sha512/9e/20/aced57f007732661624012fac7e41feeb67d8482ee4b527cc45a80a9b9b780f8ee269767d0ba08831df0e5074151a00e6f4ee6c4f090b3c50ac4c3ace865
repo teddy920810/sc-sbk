@@ -1,0 +1,1 @@
+{"versions":{"1.0.1":{"name":"qqmap","version":"1.0.1","devDependencies":{"textfile":"^1.0.3","uglify-js":"^3.0.28"},"_hasShrinkwrap":false,"directories":{},"dist":{"shasum":"46279e8f9cd68002e2e0cc5a5fc155f701f401d3","tarball":"https://registry.npmjs.org/qqmap/-/qqmap-1.0.1.tgz"}}},"name":"qqmap","dist-tags":{"latest":"1.0.1"},"modified":"2017-10-26T05:00:18.039Z"}
